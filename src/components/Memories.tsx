@@ -16,7 +16,7 @@ const Memories = () => {
           Let's Make Memories
         </h2>
         <p className="text-lg text-gray-700 mb-8">
-          So I've planned a magical day that I hope you will love. The best part is spending time together and enjoying some delicious fried momos. 😉
+          So I've planned a magical day that I hope you will love. The best part is spending time together and letting the day unfold however it's meant to. 😉
         </p>
         <button
           onClick={() => navigate('/timeline')}

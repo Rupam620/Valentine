@@ -6,10 +6,10 @@ const WhyMe = () => {
   const navigate = useNavigate();
 
   const whyMeReasons = [
-    { icon: "🫂", title: "I'm your kuchupuchu", desc: "Best partner you could have!" },
-    { icon: "🎵", title: "My music taste is best", desc: "I can sing all your favorite songs" },
-    { icon: "🤗", title: "I'm never gonna stop irritating you", desc: "aja bhidle" },
-    { icon: "💝", title: "I Will Take Care of You", desc: "Like always" }
+    { icon: "🫂", title: "Best partner you could have !", desc: "Life's more fun and adventurous with me" },
+    { icon: "🎵", title: "My cooking skills are best, trust me", desc: "Tastebud tantalizing treats, guaranteed !" },
+    { icon: "🤗", title: "I'm never gonna stop irritating you", desc: "Because you secretly love it !" },
+    { icon: "💝", title: "I will be there with you, through thick and thin", desc: "Like always" }
   ];
 
   useEffect(() => {
